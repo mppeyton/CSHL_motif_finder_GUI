@@ -142,7 +142,7 @@ class Frame(wx.Frame):
         hit_dict = {}
         motif_dict = {}
 #chromosome fastsa motif hit parser 
-        with open('motif_hit_out.txt','r') as hits:
+        with open('ChromosomeI.txt','r') as hits:
            for line in hits:
                line = line.rstrip()
                if line.startswith('#'):
