@@ -1,7 +1,7 @@
 #!/usr/bin/env python3 
 
 # 22Oct2022 
-# By: Aparna Mariyam Thomas, Chrissy Heil, & Mina Peyton
+# By: Mina Peyton, Aparna Mariyam Thomas, & Chrissy Heil
 # CSHL Programming for Biolgy - Final Project: Motif Detective
 # Input: fasta files from a directory
 # Output: dictionary {Chromosome_number: sequence}
