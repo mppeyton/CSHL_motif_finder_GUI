@@ -4,7 +4,7 @@
 # GUI and fasta motif extraction By: Mina Peyton
 # gff motif extraction By: Chrissy Heil 
 # CSHL Programming for Biology - Final Project: Motif Detective GUI
-# Input: Species & Motif Sequence
+# Input: Species & Motif Sequence (incomplete)
 # Output: fasta and gff3 extraction of motif sequence positions & annotations
 
 import gzip
